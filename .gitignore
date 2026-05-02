@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+publish/
+error.log
+CocoPet/error.log
